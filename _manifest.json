@@ -1,7 +1,7 @@
 [
     {
         "name": "BSPLib",
-        "vendor": "ZefirosSoftware",
+        "vendor": "Zefiros",
         "repository": "https://zefiros.eu/stash/scm/bsp/bsp-library.git"
     }
 ]
