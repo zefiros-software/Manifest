@@ -5,7 +5,7 @@
         "repository": "https://zefiros.eu/stash/scm/zpm/zpm.git"
     },
     {
-        "name": "premake-qt",
+        "name": "qt",
         "vendor": "dcourois",
         "repository": "https://github.com/dcourtois/premake-qt.git"
     }    
