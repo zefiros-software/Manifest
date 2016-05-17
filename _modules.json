@@ -1,12 +1,10 @@
 [
     {
-        "name": "zpm2",
-        "vendor": "Zefiros",
+        "name": "Zefiros-Software/zpm",
         "repository": "https://zefiros.eu/stash/scm/zpm/zpm.git"
     },
     {
-        "name": "qt",
-        "vendor": "dcourois",
+        "name": "dcourois/qt",
         "repository": "https://github.com/dcourtois/premake-qt.git"
     }    
 ]
