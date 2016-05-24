@@ -2,5 +2,13 @@
     {
         "name": "Zefiros-Software/BSPLib",
         "repository": "https://zefiros.eu/stash/scm/bsp/bsp-library.git"
+    },
+    {
+        "name": "Zefiros-Software/SerLib",
+        "repository": "https://github.com/Zefiros-Software/SerLib.git"
+    },
+    {
+        "name": "Zefiros-Software/BenchLib",
+        "repository": "https://github.com/Zefiros-Software/BenchLib.git"
     }
 ]
