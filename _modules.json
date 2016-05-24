@@ -4,75 +4,75 @@
         "repository": "https://zefiros.eu/stash/scm/zpm/zpm.git"
     },
     {
-        "name": "dcourois/premake-qt",
+        "name": "dcourois/qt",
         "repository": "https://github.com/dcourtois/premake-qt.git"
     },
     {
-        "name": "dcourois/premake-compilationunit",
+        "name": "dcourois/compilationunit",
         "repository": "https://github.com/dcourtois/premake-compilationunit.git"
     },
     {
-        "name": "TurkeyMan/premake-android",
+        "name": "TurkeyMan/android",
         "repository": "https://github.com/TurkeyMan/premake-android.git"
     }, 
     {
-        "name": "TurkeyMan/premake-empscripten",
+        "name": "TurkeyMan/empscripten",
         "repository": "https://github.com/TurkeyMan/premake-emscripten.git"
     },   
     {
-        "name": "Meoo/premake-androidmk",
+        "name": "Meoo/androidmk",
         "repository": "https://github.com/Meoo/premake-androidmk.git"
     },
     {
-        "name": "Blizzard/premake-autoconf",
+        "name": "Blizzard/autoconf",
         "repository": "https://github.com/Blizzard/premake-autoconf.git"
     },
     {
-        "name": "Geequlim/premake-modules",
+        "name": "Geequlim/modules",
         "repository": "https://github.com/Geequlim/premake-modules.git"
     },
     {
-        "name": "premake/premake-eclipse",
+        "name": "premake/eclipse",
         "repository": "https://github.com/premake/premake-eclipse.git"
     },
     {
-        "name": "mversluys/premake-ghp",
+        "name": "mversluys/ghp",
         "repository": "https://github.com/mversluys/premake-ghp.git"
     },
     {
-        "name": "TurkeyMan/premake-nacl",
+        "name": "TurkeyMan/nacl",
         "repository": "https://github.com/TurkeyMan/premake-nacl.git"
     },
     {
-        "name": "TurkeyMan/premake-netbeans",
+        "name": "TurkeyMan/netbeans",
         "repository": "https://github.com/TurkeyMan/premake-netbeans.git"
     },
     {
-        "name": "jimon/premake-ninja",
+        "name": "jimon/ninja",
         "repository": "https://github.com/jimon/premake-ninja.git"
     },
     {
-        "name": "TurkeyMan/premake-slickedit",
+        "name": "TurkeyMan/slickedit",
         "repository": "https://github.com/TurkeyMan/premake-slickedit.git"
     },
     {
-        "name": "TurkeyMan/premake-vstool",
+        "name": "TurkeyMan/vstool",
         "repository": "https://github.com/TurkeyMan/premake-vstool.git"
     },
     {
-        "name": "LORgames/premake-winrt",
+        "name": "LORgames/winrt",
         "repository": "https://github.com/LORgames/premake-winrt.git"
     },
     {
-        "name": "tarruda/premake-export-compile-commands",
+        "name": "tarruda/export-compile-commands",
         "repository": "https://github.com/tarruda/premake-export-compile-commands.git"
     },
     {
-        "name": "tarruda/premake-platform-test",
+        "name": "tarruda/platform-test",
         "repository": "https://github.com/tarruda/premake-platform-test.git"
     },
     {
-        "name": "tarruda/premake-pkgconfig",
+        "name": "tarruda/pkgconfig",
         "repository": "https://github.com/tarruda/premake-pkgconfig.git"
     }
 ]
