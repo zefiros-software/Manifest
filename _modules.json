@@ -74,5 +74,9 @@
     {
         "name": "tarruda/pkgconfig",
         "repository": "https://github.com/tarruda/premake-pkgconfig.git"
+    },
+    {
+        "name": "mindreframer/ProFi",
+        "repository": "https://github.com/mindreframer/ProFi.lua.git"
     }
 ]

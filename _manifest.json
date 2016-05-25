@@ -5,7 +5,7 @@
     },
     {
         "name": "Zefiros-Software/SerLib",
-        "repository": "https://github.com/Zefiros-Software/SerLib.git"
+        "repository": "https://zefiros.eu/stash/scm/ser/serialisation-library.git"
     },
     {
         "name": "Zefiros-Software/BenchLib",
