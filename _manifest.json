@@ -14,6 +14,6 @@
     {
         "name": "Zefiros-Software/GoogleTest",
         "repository": "https://zefiros.eu/stash/scm/zpm/google-test.git",
-        "shadow-repository": "https://github.com/google/googletest.git"
+        "shadowRepository": "https://github.com/google/googletest.git"
     }
 ]
