@@ -10,5 +10,10 @@
     {
         "name": "Zefiros-Software/BenchLib",
         "repository": "https://github.com/Zefiros-Software/BenchLib.git"
+    },
+    {
+        "name": "Zefiros-Software/GoogleTest",
+        "repository": "https://zefiros.eu/stash/scm/zpm/google-test.git",
+        "shadow-repository": "https://github.com/google/googletest.git"
     }
 ]
