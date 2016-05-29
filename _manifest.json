@@ -15,5 +15,10 @@
         "name": "Zefiros-Software/GoogleTest",
         "repository": "https://zefiros.eu/stash/scm/zpm/google-test.git",
         "shadowRepository": "https://github.com/google/googletest.git"
+    },
+    {
+        "name": "Zefiros-Software/GoogleMock",
+        "repository": "https://zefiros.eu/stash/scm/zpm/google-mock.git",
+        "shadowRepository": "https://github.com/google/googlemock.git"
     }
 ]
