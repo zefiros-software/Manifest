@@ -29,6 +29,6 @@
     {
         "name": "Zefiros-Software/ArmadilloExt",
         "repository": "https://zefiros.eu/stash/scm/zpm/armadillo-build.git",
-        "shadowRepository": "https://github.com/Zefiros-Software/ArmadilloExt.git"
+        "shadowRepository": "https://paulvisscher@zefiros.eu/stash/scm/zpm/armadilloext.git"
     }
 ]
