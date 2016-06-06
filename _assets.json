@@ -2,5 +2,9 @@
     {
         "name": "Zefiros-Software/gcov2clover",
         "repository": "https://zefiros.eu/stash/scm/zpm/gcov-to-clover.git"
+    },
+    {
+        "name": "Zefiros-Software/Doxygen",
+        "repository": "https://zefiros.eu/stash/scm/zpm/doxygen.git"
     }
 ]
