@@ -4,6 +4,10 @@
         "repository": "https://zefiros.eu/stash/scm/zpm/zpm.git"
     },
     {
+        "name": "Zefiros-Software/zefiros-default",
+        "repository": "https://zefiros.eu/stash/scm/zpm/zefiros-defaults.git"
+    },
+    {
         "name": "dcourois/qt",
         "repository": "https://github.com/dcourtois/premake-qt.git"
     },
