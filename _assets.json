@@ -6,5 +6,9 @@
     {
         "name": "Zefiros-Software/Doxygen",
         "repository": "https://zefiros.eu/stash/scm/zpm/doxygen.git"
+    },
+    {
+        "name": "Zefiros-Software/Anaconda",
+        "repository": "https://zefiros.eu/stash/scm/zpm/anaconda.git"
     }
 ]
