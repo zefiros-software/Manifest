@@ -155,7 +155,7 @@ def checkRegistries():
         else:
             registriesNames.add( registries["name"] )
 
-            code = os.system( "git ls-remote -q --exit-code -h %s" % registries["repository"])
+            #code = os.system( "git ls-remote -q --exit-code -h %s" % registries["repository"])
 
             #if code != 0:
             #    print( "The repository '%s' for registries '%s' is unaccessible!" % (registries["repository"], registries["name"]) )
