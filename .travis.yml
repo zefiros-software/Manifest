@@ -4,7 +4,7 @@ language: python
 python:
   - 3.5
 install:
-    - chmod +x install-tests.sh
+    - chmod +x ./script/install-tests.sh
 script:
-    - ./install-tests.sh
-    - python validator.py
+    - ./script/install-tests.sh
+    - python ./script/validator.py
