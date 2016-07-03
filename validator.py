@@ -36,11 +36,11 @@ def checkAssets():
         else:
             assetNames.add( asset["name"] )
 
-            code = os.system( "git ls-remote --exit-code -h %s > null" % asset["repository"])
+            #code = os.system( "git ls-remote --exit-code -h %s > null" % asset["repository"])
 
-            if code != 0:
-                print( "The repository '%s' for asset '%s' is unaccessible!" % (asset["repository"], asset["name"]) )
-                sys.exit(-1)
+            #if code != 0:
+            #    print( "The repository '%s' for asset '%s' is unaccessible!" % (asset["repository"], asset["name"]) )
+            #    sys.exit(-1)
 
 def checkManifest():
     with open('_manifest.json') as manifestFile:    
@@ -75,11 +75,11 @@ def checkManifest():
         else:
             manifestNames.add( manifest["name"] )
 
-            code = os.system( "git ls-remote -q --exit-code -h %s" % manifest["repository"])
+            #code = os.system( "git ls-remote -q --exit-code -h %s" % manifest["repository"])
 
-            if code != 0:
-                print( "The repository '%s' for manifest '%s' is unaccessible!" % (manifest["repository"], manifest["name"]) )
-                sys.exit(-1)
+            #if code != 0:
+            #    print( "The repository '%s' for manifest '%s' is unaccessible!" % (manifest["repository"], manifest["name"]) )
+            #    sys.exit(-1)
 
 
 def checkModules():
@@ -115,11 +115,11 @@ def checkModules():
         else:
             modulesNames.add( modules["name"] )
 
-            code = os.system( "git ls-remote -q --exit-code -h %s" % modules["repository"])
+            #code = os.system( "git ls-remote -q --exit-code -h %s" % modules["repository"])
 
-            if code != 0:
-                print( "The repository '%s' for modules '%s' is unaccessible!" % (modules["repository"], modules["name"]) )
-                sys.exit(-1)
+            #if code != 0:
+            #    print( "The repository '%s' for modules '%s' is unaccessible!" % (modules["repository"], modules["name"]) )
+            #    sys.exit(-1)
 
 
 def checkRegistries():
@@ -157,9 +157,9 @@ def checkRegistries():
 
             code = os.system( "git ls-remote -q --exit-code -h %s" % registries["repository"])
 
-            if code != 0:
-                print( "The repository '%s' for registries '%s' is unaccessible!" % (registries["repository"], registries["name"]) )
-                sys.exit(-1)
+            #if code != 0:
+            #    print( "The repository '%s' for registries '%s' is unaccessible!" % (registries["repository"], registries["name"]) )
+            #    sys.exit(-1)
 
 print( "Checking assets..." )
 checkAssets()
