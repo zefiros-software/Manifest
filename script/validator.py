@@ -8,19 +8,25 @@ def checkAssets():
         assets = json.load(assetFile)
 
     assetsSchema = {
+        "$schema": "http://json-schema.org/draft-04/schema#",
         "type": "array",
         "items": {
             "type" : "object",
+            "minProperties": 2,
+            "maxProperties": 3,
             "properties" : {
                 "name": {
                     "type": "string",
-                    "minLength": 3,
-                    "maxLength": 50,
-                    "pattern": "^([a-zA-Z0-9_-]*/[a-zA-Z0-9_-]*)$"
+                    "pattern": "^([a-zA-Z0-9_-]{2,50}/[a-zA-Z0-9_-]{2,50})$"
                 },
                 "repository": {
                     "type": "string",
                     "pattern": "^(https://.*\.git)$"
+                },
+                "shadow-repository": {
+                    "type": "string",
+                    "pattern": "^(https://.*\.git)$",
+                    "optional": True
                 }
             }
         }
@@ -47,19 +53,25 @@ def checkManifest():
         manifests = json.load(manifestFile)
 
     manifestsSchema = {
+        "$schema": "http://json-schema.org/draft-04/schema#",
         "type": "array",
         "items": {
             "type" : "object",
+            "minProperties": 2,
+            "maxProperties": 3,
             "properties" : {
                 "name": {
                     "type": "string",
-                    "minLength": 3,
-                    "maxLength": 50,
-                    "pattern": "^([a-zA-Z0-9_-]*/[a-zA-Z0-9_-]*)$"
+                    "pattern": "^([a-zA-Z0-9_-]{2,50}/[a-zA-Z0-9_-]{2,50})$"
                 },
                 "repository": {
                     "type": "string",
                     "pattern": "^(https://.*\.git)$"
+                },
+                "shadow-repository": {
+                    "type": "string",
+                    "pattern": "^(https://.*\.git)$",
+                    "optional": True
                 }
             }
         }
@@ -87,15 +99,15 @@ def checkModules():
         moduless = json.load(modulesFile)
 
     modulessSchema = {
+        "$schema": "http://json-schema.org/draft-04/schema#",
         "type": "array",
         "items": {
             "type" : "object",
+            "maxProperties": 2,
             "properties" : {
                 "name": {
                     "type": "string",
-                    "minLength": 3,
-                    "maxLength": 50,
-                    "pattern": "^([a-zA-Z0-9_-]*/[a-zA-Z0-9_-]*)$"
+                    "pattern": "^([a-zA-Z0-9_-]{2,50}/[a-zA-Z0-9_-]{2,50})$"
                 },
                 "repository": {
                     "type": "string",
@@ -127,13 +139,15 @@ def checkRegistries():
         registriess = json.load(registriesFile)
 
     registriessSchema = {
+        "$schema": "http://json-schema.org/draft-04/schema#",
         "type": "array",
         "items": {
             "type" : "object",
+            "maxProperties": 2,
             "properties" : {
                 "name": {
                     "type": "string",
-                    "minLength": 3,
+                    "minLength": 2,
                     "maxLength": 50,
                     "pattern": "^([a-zA-Z0-9_-]*)$"
                 },
