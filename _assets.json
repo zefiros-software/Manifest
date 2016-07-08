@@ -10,5 +10,9 @@
     {
         "name": "Zefiros-Software/Anaconda",
         "repository": "https://zefiros.eu/stash/scm/zpm/anaconda.git"
+    },
+    {
+        "name": "Zefiros-Software/Zefiros-Mkdocs-Style",
+        "repository": "https://github.com/PaulVisscher/Zefiros-Mkdocs-Style.git"
     }
 ]
