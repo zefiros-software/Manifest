@@ -4,7 +4,7 @@ import sys
 import os
 
 def checkAssets():
-    with open('_assets.json') as assetFile:    
+    with open('.assets.json') as assetFile:    
         assets = json.load(assetFile)
 
     assetsSchema = {
@@ -49,7 +49,7 @@ def checkAssets():
             #    sys.exit(-1)
 
 def checkManifest():
-    with open('_manifest.json') as manifestFile:    
+    with open('.manifest.json') as manifestFile:    
         manifests = json.load(manifestFile)
 
     manifestsSchema = {
@@ -95,7 +95,7 @@ def checkManifest():
 
 
 def checkModules():
-    with open('_modules.json') as modulesFile:    
+    with open('.modules.json') as modulesFile:    
         moduless = json.load(modulesFile)
 
     modulessSchema = {
@@ -135,7 +135,7 @@ def checkModules():
 
 
 def checkRegistries():
-    with open('_registries.json') as registriesFile:    
+    with open('.registries.json') as registriesFile:    
         registriess = json.load(registriesFile)
 
     registriessSchema = {
