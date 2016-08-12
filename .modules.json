@@ -1,5 +1,9 @@
 [
     {
+        "name": "Zefiros-Software/Anaconda",
+        "repository": "https://github.com/Zefiros-Software/Anaconda.git"
+    },
+    {
         "name": "Zefiros-Software/zpm",
         "repository": "https://zefiros.eu/stash/scm/zpm/zpm.git"
     },

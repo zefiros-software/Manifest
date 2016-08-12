@@ -1,15 +1,11 @@
 [
     {
-        "name": "Zefiros-Software/gcov2clover",
-        "repository": "https://zefiros.eu/stash/scm/zpm/gcov-to-clover.git"
+        "name": "Zefiros-Software/Gcov2Clover",
+        "repository": "https://github.com/Zefiros-Software/Gcov2Clover.git"
     },
     {
         "name": "Zefiros-Software/Doxygen",
-        "repository": "https://zefiros.eu/stash/scm/zpm/doxygen.git"
-    },
-    {
-        "name": "Zefiros-Software/Anaconda",
-        "repository": "https://zefiros.eu/stash/scm/zpm/anaconda.git"
+        "repository": "https://github.com/Zefiros-Software/Doxygen.git"
     },
     {
         "name": "Zefiros-Software/Zefiros-Mkdocs-Style",
