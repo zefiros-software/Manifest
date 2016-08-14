@@ -1,11 +1,11 @@
 [
     {
         "name": "Zefiros-Software/PlotLib",
-        "repository": "https://zefiros.eu/stash/scm/plot/plotting-library.git"
+        "repository": "https://github.com/Zefiros-Software/PlotLib.git"
     },
     {
         "name": "Zefiros-Software/BSPLib",
-        "repository": "https://zefiros.eu/stash/scm/bsp/bsp-library.git"
+        "repository": "https://github.com/Zefiros-Software/BSPLib.git"
     },
     {
         "name": "Zefiros-Software/SerLib",
