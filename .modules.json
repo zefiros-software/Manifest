@@ -5,11 +5,11 @@
     },
     {
         "name": "Zefiros-Software/zpm",
-        "repository": "https://zefiros.eu/stash/scm/zpm/zpm.git"
+        "repository": "https://github.com/Zefiros-Software/ZPM.gitt"
     },
     {
         "name": "Zefiros-Software/Zefiros-Defaults",
-        "repository": "https://zefiros.eu/stash/scm/zpm/zefiros-defaults.git"
+        "repository": "https://github.com/Zefiros-Software/ZefirosDefaults.git"
     },
     {
         "name": "dcourois/qt",
