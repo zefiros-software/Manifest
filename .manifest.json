@@ -21,18 +21,13 @@
         "shadowRepository": "https://github.com/google/googletest.git"
     },
     {
-        "name": "Zefiros-Software/GoogleMock",
-        "repository": "https://zefiros.eu/stash/scm/zpm/google-mock.git",
-        "shadowRepository": "https://github.com/google/googlemock.git"
-    },
-    {
         "name": "Zefiros-Software/Armadillo",
-        "repository": "https://zefiros.eu/stash/scm/zpm/armadillo-build.git",
+        "repository": "https://github.com/Zefiros-Software/ArmadilloBuild.git",
         "shadowRepository": "https://github.com/Zefiros-Software/Armadillo.git"
     },
     {
         "name": "Zefiros-Software/ArmadilloExt",
-        "repository": "https://zefiros.eu/stash/scm/zpm/armadillo-build.git",
-        "shadowRepository": "https://zefiros.eu/stash/scm/zpm/armadilloext.git"
+        "repository": "https://github.com/Zefiros-Software/ArmadilloBuild.git",
+        "shadowRepository": "https://github.com/Zefiros-Software/ArmadilloExt.git"
     }
 ]
