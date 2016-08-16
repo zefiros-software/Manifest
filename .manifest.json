@@ -35,5 +35,10 @@
         "name": "Zefiros-Software/Boost-Accumulators",
         "repository": "https://github.com/Zefiros-Software/Boost-Accumulators.git",
         "shadowRepository": "https://github.com/boostorg/accumulators.git"
+    },    
+    {
+        "name": "Zefiros-Software/Boost-MPL",
+        "repository": "https://github.com/Zefiros-Software/Boost-MPL.git",
+        "shadowRepository": "https://github.com/boostorg/mpl.git"
     }
 ]
