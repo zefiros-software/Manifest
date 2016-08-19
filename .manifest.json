@@ -34,5 +34,10 @@
         "name": "Zefiros-Software/Boost",
         "repository": "https://github.com/Zefiros-Software/Boost.git",
         "shadowRepository": "https://github.com/boostorg/boost.git"
+    },    
+    {
+        "name": "Zefiros-Software/Fmt",
+        "repository": "https://github.com/Zefiros-Software/Fmt.git",
+        "shadowRepository": "https://github.com/fmtlib/fmt.git"
     }
 ]
