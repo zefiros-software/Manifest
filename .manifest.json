@@ -24,12 +24,7 @@
         "name": "Zefiros-Software/Armadillo",
         "repository": "https://github.com/Zefiros-Software/ArmadilloBuild.git",
         "shadowRepository": "https://github.com/Zefiros-Software/Armadillo.git"
-    },
-    {
-        "name": "Zefiros-Software/ArmadilloExt",
-        "repository": "https://github.com/Zefiros-Software/ArmadilloBuild.git",
-        "shadowRepository": "https://github.com/Zefiros-Software/ArmadilloExt.git"
-    },    
+    },  
     {
         "name": "Zefiros-Software/Boost",
         "repository": "https://github.com/Zefiros-Software/Boost.git",
