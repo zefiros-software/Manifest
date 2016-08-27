@@ -1,5 +1,9 @@
 [
     {
+        "name": "Zefiros-Software/CoreLib",
+        "repository": "https://github.com/Zefiros-Software/CoreLib.git"
+    },
+    {
         "name": "Zefiros-Software/PlotLib",
         "repository": "https://github.com/Zefiros-Software/PlotLib.git"
     },
