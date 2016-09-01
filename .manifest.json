@@ -44,7 +44,7 @@
         "shadowRepository": "https://github.com/fmtlib/fmt.git"
     },
     {
-        "name": "Zefiros-Software/DocOptCpp",
+        "name": "Zefiros-Software/DocoptCpp",
         "repository": "https://github.com/Zefiros-Software/DocoptCpp.git",
         "shadowRepository": "https://github.com/docopt/docopt.cpp.git"
     }
