@@ -52,5 +52,10 @@
         "name": "Zefiros-Software/DocoptCpp",
         "repository": "https://github.com/Zefiros-Software/DocoptCpp.git",
         "shadowRepository": "https://github.com/docopt/docopt.cpp.git"
+    },
+    {
+        "name": "Zefiros-Software/libsimdpp",
+        "repository": "https://github.com/Zefiros-Software/libsimdpp.git",
+        "shadowRepository": "https://github.com/p12tic/libsimdpp.git"
     }
 ]
