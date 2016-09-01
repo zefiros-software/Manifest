@@ -29,6 +29,11 @@
         "shadowRepository": "https://github.com/google/googletest.git"
     },
     {
+        "name": "Zefiros-Software/GoogleBenchmark",
+        "repository": "https://github.com/Zefiros-Software/GoogleBenchmark.git",
+        "shadowRepository": "https://github.com/google/benchmark.git"
+    },
+    {
         "name": "Zefiros-Software/Armadillo",
         "repository": "https://github.com/Zefiros-Software/ArmadilloBuild.git",
         "shadowRepository": "https://github.com/Zefiros-Software/Armadillo.git"
