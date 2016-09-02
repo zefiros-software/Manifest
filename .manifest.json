@@ -57,5 +57,10 @@
         "name": "Zefiros-Software/libsimdpp",
         "repository": "https://github.com/Zefiros-Software/libsimdpp.git",
         "shadowRepository": "https://github.com/p12tic/libsimdpp.git"
+    },
+    {
+        "name": "Zefiros-Software/ChaiScript",
+        "repository": "https://github.com/Zefiros-Software/ChaiScript.git",
+        "shadowRepository": "https://github.com/ChaiScript/ChaiScript.git"
     }
 ]
