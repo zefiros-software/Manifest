@@ -70,8 +70,8 @@
     },
     {
         "name": "Zefiros-Software/cURL",
-        "repository": "https://github.com/Zefiros-Software/Slacking.git",
-        "shadowRepository": "https://github.com/coin-au-carre/slacking.git"
+        "repository": "https://github.com/Zefiros-Software/cURL.git",
+        "shadowRepository": "https://github.com/curl/curl.git"
     },
     {
         "name": "Zefiros-Software/mbedTLS",
