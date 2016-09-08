@@ -67,5 +67,15 @@
         "name": "Zefiros-Software/Slacking",
         "repository": "https://github.com/Zefiros-Software/Slacking.git",
         "shadowRepository": "https://github.com/coin-au-carre/slacking.git"
+    },
+    {
+        "name": "Zefiros-Software/cURL",
+        "repository": "https://github.com/Zefiros-Software/Slacking.git",
+        "shadowRepository": "https://github.com/coin-au-carre/slacking.git"
+    },
+    {
+        "name": "Zefiros-Software/mbedTLS",
+        "repository": "https://github.com/Zefiros-Software/mbedTLS.git",
+        "shadowRepository": "https://github.com/ARMmbed/mbedtls.git"
     }
 ]
