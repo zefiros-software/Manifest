@@ -62,5 +62,10 @@
         "name": "Zefiros-Software/ChaiScript",
         "repository": "https://github.com/Zefiros-Software/ChaiScript.git",
         "shadowRepository": "https://github.com/ChaiScript/ChaiScript.git"
+    },
+    {
+        "name": "Zefiros-Software/Slacking",
+        "repository": "https://github.com/Zefiros-Software/Slacking.git",
+        "shadowRepository": "https://github.com/coin-au-carre/slacking.git"
     }
 ]
