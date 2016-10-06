@@ -77,5 +77,10 @@
         "name": "Zefiros-Software/mbedTLS",
         "repository": "https://github.com/Zefiros-Software/mbedTLS.git",
         "shadowRepository": "https://github.com/ARMmbed/mbedtls.git"
+    },
+    {
+        "name": "Zefiros-Software/SFML",
+        "repository": "https://github.com/Zefiros-Software/SFML.git",
+        "shadowRepository": "https://github.com/SFML/SFML.git"
     }
 ]
