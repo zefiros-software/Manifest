@@ -85,7 +85,7 @@
     },
     {
         "name": "Zefiros-Software/SDL2",
-        "repository": "https://github.com/Zefiros-Software/SDL2-mirror.git",
-        "shadowRepository": "https://github.com/Zefiros-Software/SDL2.git"
+        "repository": "https://github.com/Zefiros-Software/SDL2.git",
+        "shadowRepository": "https://github.com/Zefiros-Software/SDL2-mirror.git"
     }
 ]
