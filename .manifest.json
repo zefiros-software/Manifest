@@ -82,5 +82,15 @@
         "name": "Zefiros-Software/SFML",
         "repository": "https://github.com/Zefiros-Software/SFML.git",
         "shadowRepository": "https://github.com/SFML/SFML.git"
+    },
+    {
+        "name": "Zefiros-Software/bgfx",
+        "repository": "https://github.com/Zefiros-Software/bgfx.git",
+        "shadowRepository": "https://github.com/bkaradzic/bgfx.git"
+    },
+    {
+        "name": "Zefiros-Software/bx",
+        "repository": "https://github.com/Zefiros-Software/bx.git",
+        "shadowRepository": "https://github.com/bkaradzic/bx.git"
     }
 ]
