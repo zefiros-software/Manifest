@@ -82,15 +82,5 @@
         "name": "Zefiros-Software/SFML",
         "repository": "https://github.com/Zefiros-Software/SFML.git",
         "shadowRepository": "https://github.com/SFML/SFML.git"
-    },
-    {
-        "name": "Zefiros-Software/SDL2",
-        "repository": "https://github.com/Zefiros-Software/SDL2.git",
-        "shadowRepository": "https://github.com/Zefiros-Software/SDL2-mirror.git"
-    },
-    {
-        "name": "Zefiros-Software/libgui",
-        "repository": "https://github.com/Zefiros-Software/libgui.git",
-        "shadowRepository": "https://github.com/andlabs/libui.git"
     }
 ]
