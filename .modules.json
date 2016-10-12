@@ -34,6 +34,10 @@
     {
         "name": "Meoo/androidmk",
         "repository": "https://github.com/Meoo/premake-androidmk.git"
+    },   
+    {
+        "name": "akaStiX/vsandroid",
+        "repository": "https://github.com/akaStiX/premake-vsandroid.git"
     },
     {
         "name": "Blizzard/autoconf",
