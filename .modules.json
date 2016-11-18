@@ -12,8 +12,8 @@
         "repository": "https://github.com/Zefiros-Software/ZefirosDefaults.git"
     },
     {
-        "name": "Zefiros-Software/Plugin",
-        "repository": "https://github.com/Zefiros-Software/Plugin.git"
+        "name": "Zefiros-Software/Plugins",
+        "repository": "https://github.com/Zefiros-Software/Plugins.git"
     },
     {
         "name": "dcourois/qt",
