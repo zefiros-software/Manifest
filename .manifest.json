@@ -92,5 +92,10 @@
         "name": "Zefiros-Software/bx",
         "repository": "https://github.com/Zefiros-Software/bx.git",
         "shadowRepository": "https://github.com/bkaradzic/bx.git"
+    },
+    { 
+        "name": "Zefiros-Software/boostsimd",
+        "repository": "https://github.com/Zefiros-Software/boostsimd.git",
+        "shadowRepository": "https://github.com/NumScale/boost.simd.git"
     }
 ]
