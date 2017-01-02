@@ -97,5 +97,10 @@
         "name": "Zefiros-Software/boostsimd",
         "repository": "https://github.com/Zefiros-Software/boostsimd.git",
         "shadowRepository": "https://github.com/NumScale/boost.simd.git"
+    },
+    { 
+        "name": "Zefiros-Software/Date",
+        "repository": "https://github.com/Zefiros-Software/Date",
+        "shadowRepository": "https://github.com/HowardHinnant/date"
     }
 ]
