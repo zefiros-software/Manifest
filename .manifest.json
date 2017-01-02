@@ -100,7 +100,7 @@
     },
     { 
         "name": "Zefiros-Software/Date",
-        "repository": "https://github.com/Zefiros-Software/Date",
-        "shadowRepository": "https://github.com/HowardHinnant/date"
+        "repository": "https://github.com/Zefiros-Software/Date.git",
+        "shadowRepository": "https://github.com/HowardHinnant/date.git"
     }
 ]
