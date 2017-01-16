@@ -3,8 +3,6 @@ dist: trusty
 language: python
 python:
   - 3.5
-install:
-    - chmod +x ./script/install-tests.sh
 script:
-    - ./script/install-tests.sh
+    - bash ./script/install-tests.sh
     - python ./script/validator.py
