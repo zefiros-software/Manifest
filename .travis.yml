@@ -6,3 +6,6 @@ python:
 script:
     - bash ./script/install-tests.sh
     - python ./script/validator.py
+notifications:
+    slack:
+        secure: "OoyoflCq6IzDQTiPdFj6EQwntuDf+dokACAJHZOU/zjXOYtrunB5EZspOhOcWZb1rEBQAg2AIxBct290QT5ap/sbaF/cedKtu6KHOECf4s7/Y66ZWGElurCWFtAoxbeGBpP4cZb4lKHWVC/IUAeOw1P4cz0sIC4Hw0DBbrd9VKrq1oTzYU7pshOxKMtTNoJqgV10o5qJH/HIpsq80/oHa5ZS5qtOVAEexvUdtLl40KweKv3vghebSFfZg5NG3SnSG8lCrjezsr6A6ometwLWwcM8g2u1sWeuHUfxSvwtsnzf6h+3Jxi32oYKGFt5aQ1LHYIL5z3f8tWLp6ySowPdvMIk3erc4FnaTdvJaSJWRrzXz7sjZUgIYiYP/O0Dxm3NtxvMogLfdI4ZbZ4ZvYVuUwmRE8SAmusJcGQTV+JDDpV6U9II9xvWuz5802rLs7qbrfm5wJ1/Zn2VzFlWVxFuMCksQyYYQdJd6OjNYzRp94bANeqWN2enZ2sbdTNIsjKaM3gEi25YptqY+wfkxp0TGPyRFbzz1f31UCNjlP1VojN353NuFL7nMEJTz/kQothEVYq+d+bN7+a5CtnUbsn5EynAc5VwXcgKPnl7uJzp6fuv6xp5D5X+6cgZft6H6fkgoNFb9xZE2bYoBq/ieOQ/IDj3wFMMzjJNvN9JlwPnCCc="

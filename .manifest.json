@@ -20,6 +20,10 @@
         "repository": "https://github.com/Zefiros-Software/SerLib.git"
     },
     {
+        "name": "Zefiros-Software/SerLib2",
+        "repository": "https://github.com/Zefiros-Software/SerLib2.git"
+    },
+    {
         "name": "Zefiros-Software/BenchLib",
         "repository": "https://github.com/Zefiros-Software/BenchLib.git"
     },
