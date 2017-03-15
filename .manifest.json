@@ -101,5 +101,10 @@
         "name": "Zefiros-Software/Date",
         "repository": "https://github.com/Zefiros-Software/Date.git",
         "shadowRepository": "https://github.com/HowardHinnant/date.git"
+    },
+    {
+        "name": "Zefiros-Software/rttr",
+        "repository": "git@github.com:Zefiros-Software/rttr.git",
+        "shadowRepository": "https://github.com/rttrorg/rttr.git"
     }
 ]
