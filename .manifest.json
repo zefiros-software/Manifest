@@ -104,7 +104,7 @@
     },
     {
         "name": "Zefiros-Software/rttr",
-        "repository": "git@github.com:Zefiros-Software/rttr.git",
+        "repository": "https://github.com/Zefiros-Software/rttr.git",
         "shadowRepository": "https://github.com/rttrorg/rttr.git"
     }
 ]
