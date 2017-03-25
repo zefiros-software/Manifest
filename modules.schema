@@ -1,0 +1,17 @@
+{
+    "type": "array",
+    "items": {
+        "type" : "object",
+        "maxProperties": 2,
+        "properties" : {
+            "name": {
+                "type": "string",
+                "pattern": "^([a-zA-Z0-9_-]{2,50}/[a-zA-Z0-9_-]{2,50})$"
+            },
+            "repository": {
+                "type": "string",
+                "pattern": "^(https://.*\\.git)$"
+            }
+        }
+    }
+}
