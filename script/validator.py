@@ -10,7 +10,6 @@ def main():
     root = os.path.join(path, "../")
 
     for f in glob.glob(root + "*.schema"):
-        print(f)
         with open(f, 'r') as s:
             schema = json.load(s)
 
