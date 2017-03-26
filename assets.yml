@@ -1,6 +1,6 @@
 - 
-    name: Zefiros-Software/Doxygen
-    repository: 'https://github.com/Zefiros-Software/Doxygen.git'
+  name: Zefiros-Software/Doxygen
+  repository: https://github.com/Zefiros-Software/Doxygen.git
 - 
-    name: Zefiros-Software/Zefiros-Mkdocs-Style
-    repository: 'https://github.com/Zefiros-Software/Zefiros-Mkdocs-Style.git'
+  name: Zefiros-Software/Zefiros-Mkdocs-Style
+  repository: https://github.com/Zefiros-Software/Zefiros-Mkdocs-Style.git
