@@ -40,7 +40,7 @@
     {
         "name": "Zefiros-Software/Armadillo",
         "repository": "https://github.com/Zefiros-Software/ArmadilloBuild.git",
-        "shadowRepository": "https://github.com/conradsnicta/armadillo-code.git"
+        "shadowRepository": "https://github.com/Zefiros-Software/armadillo-code.git"
     },  
     {
         "name": "Zefiros-Software/Boost",
