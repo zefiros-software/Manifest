@@ -1,0 +1,85 @@
+- 
+  name: Zefiros-Software/CoreLib
+  repository: https://github.com/Zefiros-Software/CoreLib.git
+- 
+  name: Zefiros-Software/MathLib
+  repository: https://github.com/Zefiros-Software/MathLib.git
+- 
+  name: Zefiros-Software/PlotLib
+  repository: https://github.com/Zefiros-Software/PlotLib.git
+- 
+  name: Zefiros-Software/BSPLib
+  repository: https://github.com/Zefiros-Software/BSPLib.git
+- 
+  name: Zefiros-Software/SerLib
+  repository: https://github.com/Zefiros-Software/SerLib.git
+- 
+  name: Zefiros-Software/SerLib2
+  repository: https://github.com/Zefiros-Software/SerLib2.git
+- 
+  name: Zefiros-Software/BenchLib
+  repository: https://github.com/Zefiros-Software/BenchLib.git
+- 
+  name: Zefiros-Software/GoogleTest
+  repository: https://github.com/google/googletest.git
+  definition: https://github.com/Zefiros-Software/GoogleTest.git
+- 
+  name: Zefiros-Software/GoogleBenchmark
+  repository: https://github.com/google/benchmark.git
+  definition: https://github.com/Zefiros-Software/GoogleBenchmark.git
+- 
+  name: Zefiros-Software/Armadillo
+  definition: https://github.com/Zefiros-Software/ArmadilloBuild.git
+  repository: https://github.com/conradsnicta/armadillo-code.git
+- 
+  name: Zefiros-Software/Boost
+  definition: https://github.com/Zefiros-Software/Boost.git
+  repository: https://github.com/boostorg/boost.git
+- 
+  name: Zefiros-Software/Fmt
+  definition: https://github.com/Zefiros-Software/Fmt.git
+  repository: https://github.com/fmtlib/fmt.git
+- 
+  name: Zefiros-Software/DocoptCpp
+  definition: https://github.com/Zefiros-Software/DocoptCpp.git
+  repository: https://github.com/docopt/docopt.cpp.git
+- 
+  name: Zefiros-Software/ChaiScript
+  definition: https://github.com/Zefiros-Software/ChaiScript.git
+  repository: https://github.com/ChaiScript/ChaiScript.git
+- 
+  name: Zefiros-Software/Slacking
+  definition: https://github.com/Zefiros-Software/Slacking.git
+  repository: https://github.com/coin-au-carre/slacking.git
+- 
+  name: Zefiros-Software/cURL
+  definition: https://github.com/Zefiros-Software/cURL.git
+  repository: https://github.com/curl/curl.git
+- 
+  name: Zefiros-Software/mbedTLS
+  definition: https://github.com/Zefiros-Software/mbedTLS.git
+  repository: https://github.com/ARMmbed/mbedtls.git
+- 
+  name: Zefiros-Software/SFML
+  definition: https://github.com/Zefiros-Software/SFML.git
+  repository: https://github.com/SFML/SFML.git
+- 
+  name: Zefiros-Software/bgfx
+  definition: https://github.com/Zefiros-Software/bgfx.git
+  repository: https://github.com/bkaradzic/bgfx.git
+- 
+  name: Zefiros-Software/bx
+  definition: https://github.com/Zefiros-Software/bx.git
+  repository: https://github.com/bkaradzic/bx.git
+- 
+  name: Zefiros-Software/boostsimd
+  definition: https://github.com/Zefiros-Software/boostsimd.git
+  repository: https://github.com/NumScale/boost.simd.git
+- 
+  name: Zefiros-Software/Date
+  definition: https://github.com/Zefiros-Software/Date.git
+  repository: https://github.com/HowardHinnant/date.git
+- 
+  name: Zefiros-Software/rttr
+  definition: https://github.com/Zefiros-Software/rttr.git
+  repository: https://github.com/rttrorg/rttr.git

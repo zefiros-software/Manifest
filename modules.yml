@@ -1,0 +1,72 @@
+- 
+  name: Zefiros-Software/Anaconda
+  repository: https://github.com/Zefiros-Software/Anaconda.git
+- 
+  name: Zefiros-Software/zpm
+  repository: https://github.com/Zefiros-Software/ZPM.git
+- 
+  name: Zefiros-Software/Zefiros-Defaults
+  repository: https://github.com/Zefiros-Software/ZefirosDefaults.git
+- 
+  name: Zefiros-Software/Plugins
+  repository: https://github.com/Zefiros-Software/Plugins.git
+- 
+  name: dcourois/qt
+  repository: https://github.com/dcourtois/premake-qt.git
+- 
+  name: dcourois/compilationunit
+  repository: https://github.com/dcourtois/premake-compilationunit.git
+- 
+  name: TurkeyMan/android
+  repository: https://github.com/TurkeyMan/premake-android.git
+- 
+  name: TurkeyMan/empscripten
+  repository: https://github.com/TurkeyMan/premake-emscripten.git
+- 
+  name: Meoo/androidmk
+  repository: https://github.com/Meoo/premake-androidmk.git
+- 
+  name: akaStiX/vsandroid
+  repository: https://github.com/akaStiX/premake-vsandroid.git
+- 
+  name: Blizzard/autoconf
+  repository: https://github.com/Blizzard/premake-autoconf.git
+- 
+  name: Geequlim/modules
+  repository: https://github.com/Geequlim/premake-modules.git
+- 
+  name: premake/eclipse
+  repository: https://github.com/premake/premake-eclipse.git
+- 
+  name: mversluys/ghp
+  repository: https://github.com/mversluys/premake-ghp.git
+- 
+  name: TurkeyMan/nacl
+  repository: https://github.com/TurkeyMan/premake-nacl.git
+- 
+  name: TurkeyMan/netbeans
+  repository: https://github.com/TurkeyMan/premake-netbeans.git
+- 
+  name: jimon/ninja
+  repository: https://github.com/jimon/premake-ninja.git
+- 
+  name: TurkeyMan/slickedit
+  repository: https://github.com/TurkeyMan/premake-slickedit.git
+- 
+  name: TurkeyMan/vstool
+  repository: https://github.com/TurkeyMan/premake-vstool.git
+- 
+  name: LORgames/winrt
+  repository: https://github.com/LORgames/premake-winrt.git
+- 
+  name: tarruda/export-compile-commands
+  repository: https://github.com/tarruda/premake-export-compile-commands.git
+- 
+  name: tarruda/platform-test
+  repository: https://github.com/tarruda/premake-platform-test.git
+- 
+  name: tarruda/pkgconfig
+  repository: https://github.com/tarruda/premake-pkgconfig.git
+- 
+  name: mindreframer/ProFi
+  repository: https://github.com/mindreframer/ProFi.lua.git
