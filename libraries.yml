@@ -58,6 +58,9 @@
 - 
   name: Zefiros-Software/MKL
   repository: https://github.com/Zefiros-Software/MKL.git
+-
+  name: Zefiros-Software/Lapack
+  repository: https://github.com/Zefiros-Software/Lapack.git
 - 
   name: Zefiros-Software/mbedTLS
   definition: https://github.com/Zefiros-Software/mbedTLS.git
