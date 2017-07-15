@@ -56,6 +56,9 @@
   definition: https://github.com/Zefiros-Software/cURL.git
   repository: https://github.com/curl/curl.git
 - 
+  name: Zefiros-Software/MKL
+  repository: https://github.com/Zefiros-Software/MKL.git
+- 
   name: Zefiros-Software/mbedTLS
   definition: https://github.com/Zefiros-Software/mbedTLS.git
   repository: https://github.com/ARMmbed/mbedtls.git
