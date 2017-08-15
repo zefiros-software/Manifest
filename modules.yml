@@ -1,6 +1,8 @@
 - 
   name: Zefiros-Software/Anaconda
-  repository: https://github.com/Zefiros-Software/Anaconda.git
+  repository: https://github.com/Zefiros-Software/Anaconda.git- 
+- name: Zefiros-Software/Miniconda
+  repository: https://github.com/Zefiros-Software/Miniconda.git
 - 
   name: Zefiros-Software/zpm
   repository: https://github.com/Zefiros-Software/ZPM.git
