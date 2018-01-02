@@ -106,5 +106,10 @@
         "name": "Zefiros-Software/rttr",
         "repository": "https://github.com/Zefiros-Software/rttr.git",
         "shadowRepository": "https://github.com/rttrorg/rttr.git"
+    },
+    {
+        "name": "Zefiros-Software/bimg",
+        "repository": "https://github.com/Zefiros-Software/bimg.git",
+        "shadowRepository": "https://github.com/bkaradzic/bimg.git"
     }
 ]
