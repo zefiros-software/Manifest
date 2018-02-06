@@ -55,6 +55,9 @@
 - name: Zefiros-Software/bx
   definition: 'https://github.com/Zefiros-Software/bx.git'
   repository: 'https://github.com/bkaradzic/bx.git'
+- name: Zefiros-Software/bimg
+  definition: 'https://github.com/Zefiros-Software/bimg.git'
+  repository: 'https://github.com/bkaradzic/bimg.git'
 - name: Zefiros-Software/boostsimd
   definition: 'https://github.com/Zefiros-Software/boostsimd.git'
   repository: 'https://github.com/NumScale/boost.simd.git'
