@@ -67,3 +67,6 @@
 - name: Zefiros-Software/rttr
   definition: 'https://github.com/Zefiros-Software/rttr.git'
   repository: 'https://github.com/rttrorg/rttr.git'
+- name: Zefiros-Software/Json
+  definition: 'https://github.com/Zefiros-Software/Json.git'
+  repository: 'https://github.com/nlohmann/json.git'
