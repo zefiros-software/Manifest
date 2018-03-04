@@ -70,3 +70,6 @@
 - name: Zefiros-Software/Json
   definition: 'https://github.com/Zefiros-Software/Json.git'
   repository: 'https://github.com/nlohmann/json.git'
+- name: Zefiros-Software/Predef
+  definition: 'https://github.com/Zefiros-Software/Predef.git'
+  repository: 'https://github.com/boostorg/predef.git'
