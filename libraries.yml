@@ -73,3 +73,6 @@
 - name: Zefiros-Software/Predef
   definition: 'https://github.com/Zefiros-Software/Predef.git'
   repository: 'https://github.com/boostorg/predef.git'
+- name: Zefiros-Software/ProgramOptions
+  definition: 'https://github.com/Zefiros-Software/ProgramOptions.git'
+  repository: 'https://github.com/Fytch/ProgramOptions.hxx.git'
