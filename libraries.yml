@@ -17,7 +17,9 @@
   definition: 'https://github.com/Zefiros-Software/GoogleTest.git'
 - name: Zefiros-Software/GoogleBenchmark
   repository: 'https://github.com/google/benchmark.git'
-  definition: 'https://github.com/Zefiros-Software/GoogleBenchmark.git'
+  definition: 'https://github.com/Zefiros-Software/GoogleBenchmark.git'  
+- name: Zefiros-Software/Preproc
+  repository: 'https://github.com/Zefiros-Software/Preproc.git'
 - name: Zefiros-Software/Armadillo
   definition: 'https://github.com/Zefiros-Software/ArmadilloBuild.git'
   repository: 'https://github.com/conradsnicta/armadillo-code.git'
