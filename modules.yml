@@ -8,6 +8,8 @@
   repository: 'https://github.com/Zefiros-Software/ZefirosDefaults.git'
 - name: Zefiros-Software/Plugins
   repository: 'https://github.com/Zefiros-Software/Plugins.git'
+- name: Zefiros-Software/MPI
+  repository: 'https://github.com/Zefiros-Software/MPI.git'
 - name: dcourois/qt
   repository: 'https://github.com/dcourtois/premake-qt.git'
 - name: dcourois/compilationunit
