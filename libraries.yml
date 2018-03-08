@@ -80,4 +80,4 @@
   repository: 'https://github.com/Fytch/ProgramOptions.hxx.git'
 - name: Zefiros-Software/cxxopts
   definition: 'https://github.com/Zefiros-Software/cxxopts.git'
-  repository: 'https://github.com/Fytch/jarro2783/cxxopts.git'
+  repository: 'https://github.com/jarro2783/cxxopts.git'
