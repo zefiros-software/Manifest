@@ -81,3 +81,5 @@
 - name: Zefiros-Software/cxxopts
   definition: 'https://github.com/Zefiros-Software/cxxopts.git'
   repository: 'https://github.com/jarro2783/cxxopts.git'
+- name: Zefiros-Software/Args
+  repository: 'https://github.com/Zefiros-Software/Args.git'
