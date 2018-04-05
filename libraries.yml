@@ -85,3 +85,6 @@
   repository: 'https://github.com/Zefiros-Software/Args.git'
 - name: Zefiros-Software/Fs
   repository: 'https://github.com/Zefiros-Software/Fs.git'
+- name: Zefiros-Software/progressbar.git
+  repository: 'https://github.com/doches/progressbar.git'
+  definition: 'https://github.com/Zefiros-Software/progressbar.git'
