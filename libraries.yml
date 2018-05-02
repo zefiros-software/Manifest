@@ -87,3 +87,6 @@
   repository: 'https://github.com/Zefiros-Software/Fs.git'
 - name: Zefiros-Software/progressbar
   repository: 'https://github.com/Zefiros-Software/progressbar.git'
+- name: Zefiros-Software/hwloc
+  definition: 'https://github.com/Zefiros-Software/hwloc.git'
+  repository: 'https://github.com/open-mpi/hwloc.git'
