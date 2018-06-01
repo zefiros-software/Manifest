@@ -90,3 +90,6 @@
 - name: Zefiros-Software/hwloc
   definition: 'https://github.com/Zefiros-Software/hwloc.git'
   repository: 'https://github.com/open-mpi/hwloc.git'
+- name: Zefiros-Software/spdlog
+  definition: 'https://github.com/Zefiros-Software/spdlog.git'
+  repository: 'https://github.com/gabime/spdlog.git'
