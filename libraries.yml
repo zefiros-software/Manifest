@@ -95,4 +95,4 @@
   repository: 'https://github.com/gabime/spdlog.git'
 - name: Zefiros-Software/GainInput
   definition: 'https://github.com/Zefiros-Software/GainInput.git'
-  repository: 'hhttps://github.com/jkuhlmann/gainput.git'
+  repository: 'https://github.com/jkuhlmann/gainput.git'
