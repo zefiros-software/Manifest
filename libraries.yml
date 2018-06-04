@@ -94,5 +94,5 @@
   definition: 'https://github.com/Zefiros-Software/spdlog.git'
   repository: 'https://github.com/gabime/spdlog.git'
 - name: Zefiros-Software/GainInput
-  definition: 'https://github.com/Zefiros-Software/GainInput.git'
+  definition: 'https://github.com/Zefiros-Software/Gainput.git'
   repository: 'https://github.com/jkuhlmann/gainput.git'
