@@ -22,7 +22,7 @@
   repository: 'https://github.com/Zefiros-Software/Preproc.git'
 - name: Zefiros-Software/Armadillo
   definition: 'https://github.com/Zefiros-Software/ArmadilloBuild.git'
-  repository: 'https://github.com/conradsnicta/armadillo-code.git'
+  repository: 'https://gitlab.com/conradsnicta/armadillo-code.git'
 - name: Zefiros-Software/Boost
   definition: 'https://github.com/Zefiros-Software/Boost.git'
   repository: 'https://github.com/boostorg/boost.git'
