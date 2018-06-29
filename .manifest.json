@@ -111,5 +111,10 @@
         "name": "Zefiros-Software/bimg",
         "repository": "https://github.com/Zefiros-Software/bimg.git",
         "shadowRepository": "https://github.com/bkaradzic/bimg.git"
+    },
+    {
+        "name": "Zefiros-Software/Falcor",
+        "repository": "https://github.com/Zefiros-Software/Falcor.git",
+        "shadowRepository": "https://github.com/NVIDIAGameWorks/Falcor.git"
     }
 ]
