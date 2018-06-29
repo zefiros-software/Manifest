@@ -96,3 +96,6 @@
 - name: Zefiros-Software/Gainput
   definition: 'https://github.com/Zefiros-Software/Gainput.git'
   repository: 'https://github.com/jkuhlmann/gainput.git'
+- name: Zefiros-Software/Falcor
+  definition: 'https://github.com/Zefiros-Software/Falcor.git'
+  repository: 'https://github.com/NVIDIAGameWorks/Falcor.git'
