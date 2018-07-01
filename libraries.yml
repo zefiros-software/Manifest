@@ -99,3 +99,6 @@
 - name: Zefiros-Software/Falcor
   definition: 'https://github.com/Zefiros-Software/Falcor.git'
   repository: 'https://github.com/NVIDIAGameWorks/Falcor.git'
+- name: Zefiros-Software/GLM
+  definition: 'https://github.com/Zefiros-Software/GLM.git'
+  repository: 'https://github.com/g-truc/glm.git'
