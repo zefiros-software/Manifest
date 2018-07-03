@@ -102,3 +102,6 @@
 - name: Zefiros-Software/GLM
   definition: 'https://github.com/Zefiros-Software/GLM.git'
   repository: 'https://github.com/g-truc/glm.git'
+- name: Zefiros-Software/GLFW
+  definition: 'https://github.com/Zefiros-Software/GLFW.git'
+  repository: 'https://github.com/glfw/glfw.git'
