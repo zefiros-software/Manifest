@@ -102,3 +102,9 @@
 - name: Zefiros-Software/The-Forge
   definition: 'https://github.com/Zefiros-Software/The-Forge.git'
   repository: 'https://github.com/ConfettiFX/The-Forge.git'
+- name: Zefiros-Software/GLM
+  definition: 'https://github.com/Zefiros-Software/GLM.git'
+  repository: 'https://github.com/g-truc/glm.git'
+- name: Zefiros-Software/GLFW
+  definition: 'https://github.com/Zefiros-Software/GLFW.git'
+  repository: 'https://github.com/glfw/glfw.git'
