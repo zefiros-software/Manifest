@@ -99,3 +99,6 @@
 - name: Zefiros-Software/Falcor
   definition: 'https://github.com/Zefiros-Software/Falcor.git'
   repository: 'https://github.com/NVIDIAGameWorks/Falcor.git'
+- name: Zefiros-Software/The-Forge
+  definition: 'https://github.com/Zefiros-Software/The-Forge.git'
+  repository: 'https://github.com/ConfettiFX/The-Forge.git'
