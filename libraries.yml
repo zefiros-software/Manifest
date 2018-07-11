@@ -108,3 +108,6 @@
 - name: Zefiros-Software/GLFW
   definition: 'https://github.com/Zefiros-Software/GLFW.git'
   repository: 'https://github.com/glfw/glfw.git'
+- name: Zefiros-Software/simdpp
+  definition: 'https://github.com/Zefiros-Software/simdpp.git'
+  repository: 'https://github.com/p12tic/libsimdpp.git'
