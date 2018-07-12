@@ -114,3 +114,6 @@
 - name: Zefiros-Software/TaskFlow
   definition: 'https://github.com/Zefiros-Software/TaskFlow.git'
   repository: 'https://github.com/cpp-taskflow/cpp-taskflow.git'
+- name: Zefiros-Software/NanoRange
+  definition: 'https://github.com/Zefiros-Software/NanoRange.git'
+  repository: 'https://github.com/tcbrindle/NanoRange.git'
