@@ -111,3 +111,6 @@
 - name: Zefiros-Software/simdpp
   definition: 'https://github.com/Zefiros-Software/simdpp.git'
   repository: 'https://github.com/p12tic/libsimdpp.git'
+- name: Zefiros-Software/TaskFlow
+  definition: 'https://github.com/Zefiros-Software/TaskFlow.git'
+  repository: 'https://github.com/cpp-taskflow/cpp-taskflow.git'
