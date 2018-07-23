@@ -117,3 +117,6 @@
 - name: Zefiros-Software/NanoRange
   definition: 'https://github.com/Zefiros-Software/NanoRange.git'
   repository: 'https://github.com/tcbrindle/NanoRange.git'
+- name: Zefiros-Software/FlatHashMap
+  definition: 'https://github.com/Zefiros-Software/FlatHashMap.git'
+  repository: 'https://github.com/skarupke/flat_hash_map.git'
