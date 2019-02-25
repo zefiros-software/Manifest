@@ -116,5 +116,10 @@
         "name": "Zefiros-Software/Falcor",
         "repository": "https://github.com/Zefiros-Software/Falcor.git",
         "shadowRepository": "https://github.com/NVIDIAGameWorks/Falcor.git"
+    },
+    {
+        "name": "Zefiros-Software/simdpp",
+        "repository": "https://github.com/Zefiros-Software/simdpp.git",
+        "shadowRepository": "https://github.com/p12tic/libsimdpp.git"
     }
 ]
